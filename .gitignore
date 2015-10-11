@@ -1,0 +1,5 @@
+#git ignore file for java project Blackjack
+bin/
+.settings
+.classpath
+.project
